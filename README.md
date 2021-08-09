@@ -1,5 +1,7 @@
 # nuxt_typescript
 
-1. yarn dev
+1. yarn install
 
-2. http://localhost:3000/
+2. yarn dev
+
+3. http://localhost:3000/
